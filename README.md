@@ -6,3 +6,4 @@ session on scala functional programing
 - [Hello World](#helloworld)
 - [String Interpolation](#stringinterpolation)
 - [If-Else](#ifelse)
+- [While-Do-While](#whiledowhile)
