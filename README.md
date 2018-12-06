@@ -7,3 +7,4 @@ session on scala functional programing
 - [String Interpolation](#stringinterpolation)
 - [If-Else](#ifelse)
 - [While-Do-While](#whiledowhile)
+- [For-Loop](#forLoop)
